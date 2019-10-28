@@ -2,7 +2,7 @@
 
 # Welcome to my website!
 My name is Lasse Buur Rasmussen and I'm a Bioinformatics Graduate with Data Analysis experience.
-I use this as a landing page for introducing people to my projects etc.\
+I use this as a landing page for introducing people to my projects etc.\\
 Enjoy!!
 
 # Projects
