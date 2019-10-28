@@ -6,6 +6,10 @@ This is a work in progress and I expect to use this as a landing page for introd
 Stay tuned for more!!
 
 # Projects
+
+## [Master Thesis - Neural Net Bacteriocin Classifier](https://github.com/lassebuurrasmussen/bacteriocin_classifier/)
+![](images/bacteriocin_classifier_result.png)
+
 ## [House price exploratory data analysis and prediction](https://github.com/lassebuurrasmussen/house_sales_prediction)
 ![](images/house_csv_head.png)
 
