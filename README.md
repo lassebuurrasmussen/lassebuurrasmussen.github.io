@@ -7,7 +7,7 @@ Enjoy!!
 
 # Projects
 
-## [Master Thesis - Neural Net Bacteriocin Classifier](https://github.com/lassebuurrasmussen/bacteriocin_classifier/)
+## [Master Thesis - Neural Net Bacteriocin Classifier](https://github.com/lassebuurrasmussen/bacteriocin_classifier_v2.0)
 ![](images/bacteriocin_classifier_result.png)
 
 ## [House price exploratory data analysis and prediction](https://github.com/lassebuurrasmussen/house_sales_prediction)
