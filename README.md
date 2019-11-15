@@ -10,6 +10,9 @@ Enjoy!!
 ## [Master Thesis - Neural Net Bacteriocin Classifier](https://github.com/lassebuurrasmussen/bacteriocin_classifier_v2.0)
 ![](images/bacteriocin_classifier_result.png)
 
+## [Training an "AI" to play chess](https://github.com/lassebuurrasmussen/chess_ai)
+![](images/chess_loss.png)
+
 ## [House price exploratory data analysis and prediction](https://github.com/lassebuurrasmussen/house_sales_prediction)
 ![](images/house_csv_head.png)
 
