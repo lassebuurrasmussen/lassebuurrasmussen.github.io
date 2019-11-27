@@ -29,6 +29,6 @@ Enjoy!!
 <object data="CV.pdf" type="application/pdf" width="600px" height="1710px"></object>
 
 # Contact details
-<img src="images/gmail_logo.png" height="12"> e-mail: <a href="mailto:lassebuurrasmussen@gmail.com">lassebuurrasmussen@gmail.com</a>\\
+<img src="images/gmail_logo.png" height="12"> e-mail: <a href="mailto:lasse@lassebuur.dk">lasse@lassebuur.dk</a>\\
 <img src="images/square-linkedin-256.png" height="12"> LinkedIn: [linkedin.com/in/lassebuurrasmussen](https://www.linkedin.com/in/lassebuurrasmussen/)  
 <img src="images/github_logo.png" height="12"> GitHub: [github.com/lassebuurrasmussen](https://github.com/lassebuurrasmussen)  
