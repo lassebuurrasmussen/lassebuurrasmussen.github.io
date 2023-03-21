@@ -25,8 +25,9 @@ Enjoy!!
 ## [Review paper](https://github.com/lassebuurrasmussen/bachelor_project/blob/master/Bachelor_project.pdf)
 [The Human Microbiome and its Interactions with the Immune System](https://github.com/lassebuurrasmussen/bachelor_project/blob/master/Bachelor_project.pdf)
 
-# CV
-<object data="CV.pdf" type="application/pdf" width="600px" height="1710px"></object>
+[//]: # (# CV)
+
+[//]: # (<object data="CV.pdf" type="application/pdf" width="600px" height="1710px"></object>)
 
 # Contact details
 <img src="images/gmail_logo.png" height="12"> e-mail: <a href="mailto:lasse@lassebuur.dk">lasse@lassebuur.dk</a>\\
